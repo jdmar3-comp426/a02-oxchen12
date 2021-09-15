@@ -1,0 +1,19 @@
+{
+  "name": "a02-oxchen12",
+  "version": "1.0.0",
+  "description": "FA21 COMP 426 a02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-oxchen12.git"
+  },
+  "author": "Oliver Chen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-oxchen12/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-oxchen12#readme"
+}
